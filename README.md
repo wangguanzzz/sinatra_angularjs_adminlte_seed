@@ -1,2 +1,2 @@
 # sinatra_angularjs_adminlte_seed
-project seed for framework sinatra + angularjs + adminlte
+A Project Seed for Framework Sinatra + Angularjs + adminLTE
